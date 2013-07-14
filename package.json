@@ -5,6 +5,7 @@
 	"author": "Ben Drucker <bvdrucker@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"request": "2.22.0"
+		"request": "2.22.0",
+		"mongoose": "3.6.14"
 	}
 }
