@@ -1,0 +1,10 @@
+{
+	"name": "citibike-collector",
+	"description": "Scrape CitiBike station data on a specified interval",
+	"version": "0.0.1",
+	"author": "Ben Drucker <bvdrucker@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"request": "2.22.0"
+	}
+}
