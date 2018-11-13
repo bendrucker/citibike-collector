@@ -1,5 +1,7 @@
 # CitiBike Logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/citibike-collector.svg)](https://greenkeeper.io/)
+
 I've deployed this on NodeJitsu. I'm logging data from CitiBike's [public station data](https://citibikenyc.com/stations/json) and storing it on [MongoHQ](http://mongohq.com). I've yet to decide what to do with the data. I'm thinking of doing a visualization of some sort to show bike availability over the course of a day.
 
 # License (MIT)
